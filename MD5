@@ -1,0 +1,8 @@
+c67f08c27cf9978c144e12da620e4475 *DESCRIPTION
+acf49079d87042137de9c2e47a180faf *NAMESPACE
+c12c05b96568e08c7cf1c001810e7ea9 *R/stablecluster.R
+47f41aa293e266eab2a85fe4ced34fc4 *R/subsamples.R
+29bb452e5c63d325d07fd680cb927a60 *R/tun_par.R
+1fe744bb08e0cf828ef3034e711e8e30 *man/stablecluster.Rd
+298fc6594bacb9b32f1f659373f74251 *man/sub.sim.Rd
+269486ec172a01faf53e92dba84a2bbc *man/tun_calc.Rd
